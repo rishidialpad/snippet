@@ -1,0 +1,4 @@
+### TO Move file from one location to another
+% mv ~/Downloads/MyFile.txt<old location> ~/Documents/Work/MyFile.txt<new location>
+
+
